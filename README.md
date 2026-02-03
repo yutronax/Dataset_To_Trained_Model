@@ -189,7 +189,7 @@ Sistem aşağıdaki çıktıları sağlar:
 - [ ] Daha fazla model mimarisi desteği (EfficientNet, YOLO, etc.)
 - [ ] Data augmentation seçenekleri
 - [ ] TensorBoard entegrasyonu
-- [ ] Model karşılaştırma özelligi
+- [ ] Model karşılaştırma özelliği
 - [ ] ONNX export desteği
 - [ ] Batch prediction özelliği
 
